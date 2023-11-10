@@ -7,7 +7,7 @@ Custom Snake Game is a Python script that implements a customized version of the
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/CustomSnakeGame.git
+    git clone Would_be_updated_later
     ```
 
 2. **Change to the Project Directory:**
