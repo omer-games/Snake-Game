@@ -1,6 +1,6 @@
 # Custom Snake Game
 
-Custom Snake Game is a Python script that implements a customized version of the classic Snake game. The project follows a similar build structure to the Wordle Solver. It's a game created for the sole purpose of entertainment.
+Custom Snake Game is a Python script that implements a customized version of the classic Snake game. It's a game created for the sole purpose of entertainment.
 
 ## How to Play
 
