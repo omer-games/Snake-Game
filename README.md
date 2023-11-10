@@ -7,7 +7,7 @@ Custom Snake Game is a Python script that implements a customized version of the
 1. **Clone the Repository:**
 
     ```bash
-    git clone Would_be_updated_later
+    git clone https://github.com/omer-games/Snake-Game
     ```
 
 2. **Change to the Project Directory:**
