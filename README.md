@@ -13,7 +13,7 @@ Custom Snake Game is a Python script that implements a customized version of the
 2. **Change to the Project Directory:**
 
     ```bash
-    cd CustomSnakeGame/snake_game
+    cd 'Project-Path'
     ```
 
     Note: Make sure to navigate to the actual directory where the `snake_game.py` file is located.
