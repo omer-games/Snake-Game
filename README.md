@@ -37,3 +37,7 @@ Follow the on-screen instructions to control the snake and enjoy the game!
 
    ```bash
    pip install pygame
+
+## Developer
+
+Omer-Games
